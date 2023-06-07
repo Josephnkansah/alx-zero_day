@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 #!/bin/bash 
-echo "ALXis so cool!"
 =======
+#!/bin/bash
+>>>>>>> 50b3b882df09341506681893a21514b50b6da8da
+echo "ALXis so cool!"
 echo "ALX School"
 origin/
